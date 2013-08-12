@@ -6,7 +6,7 @@
 (function( $, undefined ) {
 
 var uuid = 0,
-  runiqueId = /^ui-id-\d+$/;
+	runiqueId = /^ui-id-\d+$/;
 
 // prevent duplicate loading
 // this is only a problem because we proxy existing functions
@@ -11133,7 +11133,7 @@ $.widget( "ui.menu", {
 		menus.children( ":not(.ui-menu-item)" ).each(function() {
 			var item = $( this );
 			// hyphen, em dash, en dash
-			if ( !/[^\-â€”â€“\s]/.test( item.text() ) ) {
+			if ( !/[^\-—–\s]/.test( item.text() ) ) {
 				item.addClass( "ui-widget-content ui-menu-divider" );
 			}
 		});

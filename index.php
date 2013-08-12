@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
 <style type="text/css">
 .ui-tooltip {
-  font-family:"Times New Roman", Times, serif, Faruma;
+	font-family:"Times New Roman", Times, serif, Faruma;
 	font-size:14px;
 	padding:4px;
 	direction:rtl;
