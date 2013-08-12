@@ -1,4 +1,4 @@
 DhivehiCalendar
 ===============
 
-Dhivehi Calendar (with Hijri calendar & hoidays marked)
+Dhivehi Calendar (Hijri calendar & holidays marked)
